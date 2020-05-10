@@ -1,0 +1,25 @@
+{
+  "name": "@au-re/eslint-config",
+  "version": "1.0.0",
+  "description": "One Config to rule them all, One Config to find them, One Config to bring them all and in the darkness bind them. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/au-re/eslint-config.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Aurelien Franky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/au-re/eslint-config/issues"
+  },
+  "homepage": "https://github.com/au-re/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
