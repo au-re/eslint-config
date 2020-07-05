@@ -1,6 +1,7 @@
 module.exports = {
   // relaxes airbnb rules
   rules: {
+    "max-len": ["error", { code: 120 }],
     "@typescript-eslint/quotes": [
       "warn",
       "double",
@@ -24,6 +25,7 @@ module.exports = {
     "padded-blocks": "off",
     "object-curly-newline": "off",
     "class-methods-use-this": "off",
+    "consistent-return": "off",
     "no-confusing-arrow": "off",
     "no-param-reassign": "off",
     "no-underscore-dangle": "off",
