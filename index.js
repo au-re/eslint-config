@@ -2,6 +2,7 @@ module.exports = {
   // relaxes airbnb rules
   rules: {
     "max-len": ["error", { code: 120 }],
+    "@typescript-eslint/no-unused-vars": "error",
     "@typescript-eslint/quotes": [
       "warn",
       "double",
